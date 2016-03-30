@@ -1,0 +1,9 @@
+ro.secure=0
+ro.allow.mock.location=1
+ro.debuggable=1
+persist.service.adb.enable=1
+persist.sys.usb.config=adb
+sys.usb.config=adb
+#ro.kernel.qemu=1
+service.adb.root=1
+ro.adb.secure=0
